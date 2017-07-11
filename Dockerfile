@@ -1,5 +1,5 @@
-FROM        debian:jessie
-MAINTAINER  Kotaimen <kotaimen.c@gmail.com>
+FROM        ubuntu:xenial
+MAINTAINER  Manish <rishimanish123@gmail.com>
 
 ENV         DEBIAN_FRONTEND noninteractive
 
